@@ -1,2 +1,11 @@
-1 bulan kedepan saya belajar github
-2 bulan kedepan saya belajar pemograman web
+1 bulan ke depan aku akan belajar github
+  - membuat branch dan merge
+  - membuat repository
+  - membuat git
+2 bulan ke depan aku akan belajar pemrograman Web
+  - membuat web
+  - mempelajari HTML untuk memprogram web
+  - mempelajari CSS dan PHP
+3 bulan ke depan aku akan belajar membuat gim
+4 bulan ke depan aku akan belajar coding
+dst
