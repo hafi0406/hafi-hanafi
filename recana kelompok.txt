@@ -1,0 +1,4 @@
+Kita akan mengerjakan proyek web secara kelompok dengan pembagian sebagai berikut:
+Aku mengerjakan bagian HTML dan Css
+Kamu mengerjakan bagian Javascript
+...
