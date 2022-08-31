@@ -1,2 +1,5 @@
 1 bulan kedepan saya belajar github
 2 bulan kedepan saya belajar pemograman web
+3 bulan kedepan saya belajar java script
+4 bulan kedepan saya belajar BRANCH
+5 bulan kedepan saya belajar FORK
